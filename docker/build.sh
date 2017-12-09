@@ -22,6 +22,9 @@ JL_PACKAGES="
     AWSSES
     AWSSDB
     AWSLambda
+    ClassicalCiphers
+    JuMP
+    Cbc
 "
 
 julia -e \
